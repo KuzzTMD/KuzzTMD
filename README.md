@@ -9,6 +9,8 @@ I'm a Digital Business undergraduate student currently learning web development 
 - ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 - UI/UX fundamentals
 
+Let's Connect @
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Aditya%20Arya%20Kusuma-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adityaaryakusuma/)
 
 [![Email](https://img.shields.io/badge/Email-aditya.aryakk@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aditya.aryakk@gmail.com)
