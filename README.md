@@ -9,6 +9,11 @@ I'm a Digital Business undergraduate student currently learning web development 
 - ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 - UI/UX fundamentals
 
+
+PortFolio
+[![Google Drive](https://img.shields.io/badge/Portfolio-Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/drive/u/1/folders/1XiVn9YqjbEyC0O8L4DYoTz7kfcWkZKkA)
+
+
 Let's Connect @
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Aditya%20Arya%20Kusuma-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adityaaryakusuma/)
@@ -19,4 +24,3 @@ Let's Connect @
 
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-085793096809-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6285793096809)
 
-[![Google Drive](https://img.shields.io/badge/Portfolio-Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/drive/u/1/folders/1XiVn9YqjbEyC0O8L4DYoTz7kfcWkZKkA)
